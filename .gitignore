@@ -1,0 +1,30 @@
+# Project
+build
+dist
+tmp
+.env
+.project
+*.pem
+
+# Tools
+node_modules
+.gulp
+.sass-cache
+.vscode
+
+# System
+.DS_Store
+Desktop.ini
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Other
+._*
+~$*
+*~

@@ -1,0 +1,27 @@
+{
+  "name": "projicon",
+  "version": "0.1.0",
+  "description": "A tool to generate text-based icons for projects.",
+  "homepage": "https://github.com/webdivelement/projicon",
+  "author": "webdivelement (https://www.webdivelement.ca)",
+  "license": "MIT",
+  "keywords": [
+    "projicon",
+    "favivon",
+    "icon",
+    "generator",
+    "text"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:webdivelement/projicon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webdivelement/projicon/issues"
+  },
+  "scripts": {
+    "bump": "npm version $@ --git-tag-version=false"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
