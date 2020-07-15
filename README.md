@@ -16,8 +16,7 @@ _A tool to generate text-based icons for projects._
 
 ## Contributing
 
-To contribute to this project, please see
-[`CONTRIBUTING.md`](CONTRIBUTING.md).
+To contribute to this project, please see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Change Log
 
