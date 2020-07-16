@@ -12,7 +12,7 @@ _A tool to generate text-based icons for projects._
 
 1. Open the [`src/index.html`](src/index.html) file in a web browser.
 
-2. Configure the icon options and click **Save** when complete.
+2. Configure the icon options and click **Download** when complete.
 
 ## Contributing
 
