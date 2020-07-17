@@ -75,16 +75,16 @@
         (event) => app.draw(event.target.value || " ")
       );
 
-      ui.icon.size.value = options.size;
-      ui.icon.size.addEventListener(
-        "input",
-        (event) => app.draw(null, null, event.target.value)
-      );
-
       ui.icon.color.value = options.color;
       ui.icon.color.addEventListener(
         "input",
         (event) => app.draw(null, event.target.value)
+      );
+
+      ui.icon.size.value = options.size;
+      ui.icon.size.addEventListener(
+        "input",
+        (event) => app.draw(null, null, event.target.value)
       );
 
       ui.download.addEventListener("click", app.download);
