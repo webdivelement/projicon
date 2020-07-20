@@ -1,6 +1,6 @@
 # projicon
 
-_A tool to generate text-based icons for projects._
+_A simple tool to generate text-based icons for projects._
 
 - [Usage](#usage)
 - [Contributing](#contributing)
