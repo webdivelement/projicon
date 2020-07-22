@@ -5,6 +5,7 @@ tmp
 .env
 .project
 *.pem
+*todo.md
 
 # Tools
 node_modules

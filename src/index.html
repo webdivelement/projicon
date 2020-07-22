@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>projicon</title>
+  <link href="stylesheets/main.css" rel="stylesheet">
+  <link href="images/projicon.png" rel="icon" type="image/png">
+  <script src="scripts/main.js" defer></script>
+</head>
+<body>
+
+  <header class="header">
+    <h1>projicon</h1>
+    <p>Generate text-based project icons.</p>
+  </header>
+
+  <main class="main" id="main">
+
+    <form class="form">
+      <label class="field" for="text">
+        <span class="label">Icon Text</span>
+        <input name="text" id="text" type="text" maxlength="2" autofocus>
+      </label>
+      <label class="field" for="color">
+        <span class="label">Hex Colour</span>
+        <input name="color" id="color" type="color">
+      </label>
+      <label class="field" for="size">
+        <span class="label">Size (px)</span>
+        <input name="size" id="size" type="number" min="1">
+      </label>
+      <div class="field">
+        <div class="label" id="label-download">Download</div>
+        <button class="button-download" aria-describedby="label-download">
+          <span class="icon-download" aria-hidden="true">
+            <span class="icon-arrow"></span>
+          </span>
+        </button>
+      </div>
+    </form>
+
+    <canvas class="canvas" role="img" aria-label="Icon Preview"></canvas>
+
+  </main>
+
+  <footer class="footer">
+    <p>
+      <a href="https://github.com/webdivelement/projicon"
+          aria-label="projicon on GitHub.com"
+          target="_blank"
+          rel="noopener">
+        projicon
+      </a>
+      by
+      <a href="https://github.com/webdivelement"
+          aria-label="webdivelement on GitHub.com"
+          target="_blank"
+          rel="noopener">
+        webdivelement
+      </a>
+      is hosted on
+      <a href="https://pages.github.com/"
+          aria-label="projicon on GitHub Pages"
+          target="_blank"
+          rel="noopener">
+        GitHub Pages
+      </a>.
+    </p>
+  </footer>
+
+</body>
+</html>
