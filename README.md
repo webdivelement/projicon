@@ -1,6 +1,6 @@
 # projicon
 
-_A tool to generate text-based icons for projects._
+_A simple tool to generate text-based icons for projects._
 
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -12,12 +12,11 @@ _A tool to generate text-based icons for projects._
 
 1. Open the [`src/index.html`](src/index.html) file in a web browser.
 
-2. Configure the icon options and click **Save** when complete.
+2. Configure the icon options and click **Download** when complete.
 
 ## Contributing
 
-To contribute to this project, please see
-[`CONTRIBUTING.md`](CONTRIBUTING.md).
+To contribute to this project, please see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Change Log
 
