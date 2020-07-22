@@ -17,6 +17,7 @@ body {
   font-size: 10px;
   color: #f9f9f9;
   background: #111515;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
