@@ -1,5 +1,7 @@
 # Contributing
 
+_Everything necessary for project installation, development and contribution._
+
 - [Getting Started](#getting-started)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
@@ -75,7 +77,7 @@ of the repository with your account.
     - Additional noteworthy changes to be mentioned.
     ```
 
-4. Stage the modified / added / removed files which are to be committed.
+4. Stage the modified / added / removed files which are to be committed:
 
     ```sh
     git add --all
