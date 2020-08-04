@@ -1,9 +1,7 @@
 # Project
-build
 dist
-tmp
-.env
 .project
+*.env
 *.pem
 *todo.md
 
@@ -22,8 +20,7 @@ Thumbs.db
 
 # Logs
 logs
-*.log
-npm-debug.log*
+*.log*
 
 # Other
 ._*
