@@ -1,7 +1,7 @@
 {
   "name": "projicon",
   "version": "0.2.0",
-  "description": "A simple tool to generate text-based icons for projects.",
+  "description": "A simple tool to generate text-based project icons.",
   "homepage": "https://github.com/webdivelement/projicon",
   "author": "webdivelement (https://www.webdivelement.ca)",
   "license": "MIT",

@@ -1,6 +1,6 @@
 /**
  * @module projicon
- * @overview projicon - A simple tool to generate text-based icons for projects.
+ * @overview projicon - A simple tool to generate text-based project icons.
  * @author webdivelement (https://github.com/webdivelement)
  */
 (function() {
